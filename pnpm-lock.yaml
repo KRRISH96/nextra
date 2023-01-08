@@ -54,6 +54,7 @@ importers:
   docs:
     specifiers:
       '@types/node': ^18.11.9
+      '@types/react': ^18.0.15
       '@vercel/og': ^0.0.22
       autoprefixer: ^10.4.13
       clsx: ^1.2.1
@@ -78,6 +79,7 @@ importers:
       react-dom: 18.2.0_react@18.2.0
     devDependencies:
       '@types/node': 18.11.18
+      '@types/react': 18.0.20
       autoprefixer: 10.4.13_postcss@8.4.14
       eslint: 8.31.0
       postcss: 8.4.14
