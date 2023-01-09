@@ -1,5 +1,11 @@
 # nextra-theme-docs
 
+## 2.1.1
+
+### Patch Changes
+
+- af76dbe: fix highlight substring from filename for code blocks
+
 ## 2.1.0
 
 ### Minor Changes
